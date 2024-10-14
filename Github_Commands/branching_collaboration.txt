@@ -1,0 +1,2 @@
+Branching refers to creating a seperate workspace for a project instead of working directly inside the main branch. 
+Thisw
