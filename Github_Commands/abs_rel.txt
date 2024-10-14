@@ -1,0 +1,1 @@
+Relative path specifies the location of the parent directory to ones desired directory. for instance cd Tech4Girls_Backend whilst the absolute path refers to moving from your home to other directories created for instance dog/Tech4irls_backend/Github_Command. 
