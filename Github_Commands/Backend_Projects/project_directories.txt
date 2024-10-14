@@ -1,0 +1,3 @@
+use mkdir to creat the Backend_Projects directory
+then cd Backend_Projects and create the folder ProjectA using mkdir ProjectA execute
+use mkdir ProjectB to create the folder ProjectB then enter ls to see the directories inside the Backend_Project afterwards use touch project_directories.txt to create the file project_directories.txt
