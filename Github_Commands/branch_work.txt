@@ -1,0 +1,1 @@
+To create a new branch use git branch name of branch and execute then use git checkout branch name to switch into the new branch created followed by git push origin branch name to push to GitHub. Finally to switch to GitHub, one would have to log into their GitHub.   
