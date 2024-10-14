@@ -1,0 +1,4 @@
+Read permissions allows for viewing of the content of a file or directory and it is represented with r
+Write permissions allows for the modification of the content of a file or a directory
+Execute permissions allows you to run a file if in case it is executable 
+Permissions are applied to files in order of the owner, the groups and the others. eg -rw-r--r-- 
