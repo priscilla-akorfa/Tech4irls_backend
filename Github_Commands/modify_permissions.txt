@@ -1,0 +1,5 @@
+read(r) is represented by 4
+write(w) is represented by 2
+Execute(x) us represented with 1 
+hence for the ownwer to rerad and write we 4+2 and for the groups and others to read only withh be 4 which gives us
+chmod 644 
