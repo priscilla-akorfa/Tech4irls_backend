@@ -1,0 +1,2 @@
+here are some 7 directories found in the root directory
+bin, etc, var, home, tmp, usr, log 
