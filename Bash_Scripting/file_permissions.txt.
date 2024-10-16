@@ -1,0 +1,4 @@
+the -rw- means that the owner has the read and write rights hence the owner can read as weel as modify the content of a file/folder
+the r-- means that the groups has only the read rights
+the last r-- means the others can only read the content of the file.
+the userhacsa is the user/owner then followed by the time and date 
