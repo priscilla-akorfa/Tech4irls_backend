@@ -1,0 +1,11 @@
+A Bash script refers to a text file containing series of commands that can be executed to achieve desired results.
+To create a bash script first create a file for instance touch random.sh
+open the file and enter
+ #!/bin/bash
+# this script just echoes Hello world
+echo "Hello world"
+ then run the following commands on the CLi
+ ls -l random.sh
+ chmod u+x random.sh
+ ./random.sh
+ then run the script.
