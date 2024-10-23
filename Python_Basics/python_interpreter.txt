@@ -1,0 +1,10 @@
+first of all,one has to install the python using "sudo apt install python3"
+enter your password and then after a succesful installation
+Type in "python3 --version" to confirm if you have the correct version
+
+to add two numbers
+#!/bin/bash/python3
+x=3
+y=5
+print(x+y)
+Then execute 
