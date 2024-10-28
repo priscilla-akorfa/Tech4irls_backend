@@ -9,3 +9,18 @@ List: refers to a bunch of sequential data or an ordered collection of items. eg
 Tuple: refers to refers to an ordered collection of items which are similar to lists but instead of a square brackets, they are in a parenthesis. Additionally, they cannot be modified. eg. (1, 2, 3, 4)
 
 Set: refers to values that are unodered and they are notified by curly brackets. {1, 2, 3, 4}
+
+question ii.
+after creating a string, 
+#!/usr/bin/python3
+my_string = "Hello World"
+print(my_string.upper())
+print(my_srting.lower())
+print(my_string.replace('World', 'Akorfa'))
+print(my_string.find('o'))
+print(my_string.split())
+sent = " ".join(my_string)
+
+
+
+name = 'Naomi'
