@@ -1,0 +1,16 @@
+Object-Oriented Programming (OOP) is the most effective approach to writing software. in Object-Oriented programming, you create or write classes that representsreal world things as well as situations and the create your objects that are based on these classes.
+
+Four Main Principles:
+Encapsulation: this involves grouping data and methods that operate on the data into a single unit called a class.
+
+Abstraction: this hides the complex implementation details of an object and only exposes what is necessary for the user.
+
+Inheritance: this allows new classes to inherit properties and behaviord from an existing class or parent, enabling code reuse.
+
+Polymorphism: This allow objects from different classes to be treated as instances of a common parent class, with each object implementing methods in its own way.
+
+Benefits of OOP:
+1. OOP makes code more organized and easier to manage.
+2. OOP helps reduce code duplication, making it more efficient.
+3. OOP makes it easier to update and fix code without affecting other parts.
+4. OOP makes it easier to add new features or objects without disrupting existing code.
